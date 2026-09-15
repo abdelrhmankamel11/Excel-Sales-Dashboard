@@ -15,4 +15,4 @@ An interactive Sales Dashboard built using Microsoft Excel to analyze sales perf
 
 ## Dashboard Preview
 
-![Dashboard](PROJECT.png)
+![Dashboard](Dashboard-preview.png)
